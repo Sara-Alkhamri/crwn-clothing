@@ -1,5 +1,7 @@
 import React from "react";
 
+//functional component because we don't need state here
+
 const MenuItem = ({ title }) => (
   <div className="directory-menu">
     <div className="menu-item">
